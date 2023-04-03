@@ -1,0 +1,15 @@
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.csproj.AssemblyReference.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.AssemblyInfoInputs.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.AssemblyInfo.cs
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.csproj.CoreCompileInputs.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\bin\Debug\net6.0\Ex58.exe
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\bin\Debug\net6.0\Ex58.deps.json
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\bin\Debug\net6.0\Ex58.runtimeconfig.json
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\bin\Debug\net6.0\Ex58.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\bin\Debug\net6.0\Ex58.pdb
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\refint\Ex58.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.pdb
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\Ex58.genruntimeconfig.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_0204\Ex58\obj\Debug\net6.0\ref\Ex58.dll
